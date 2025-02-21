@@ -145,6 +145,8 @@ This repository is licensed under the [MIT License](LICENSE). By contributing, y
 ## Acknowledgments
 
 A big thank you to all the contributors who have shared their materials to make this repository a valuable resource for the Concordia Software Engineering community!
+Note that all documents here have either been found on the internet or shared by others. I am not responsible for any document that may reveal sensitive or private information.
+If such an occurence has taken place, please contact me and I will remove the offending documents asap.
 
 ---
 
