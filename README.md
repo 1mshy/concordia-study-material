@@ -1,7 +1,6 @@
-# concordia-study-material
 # Concordia Software Engineering Course Materials
 
-Welcome to the **Concordia Software Engineering Course Materials** repository! This repository is a curated collection of resources, notes, assignments, and study materials for various courses in the Software Engineering program at Concordia University. Whether you're a current student, an alum, or just someone interested in software engineering, this repository aims to be a helpful resource for your academic journey.
+Welcome to the **Concordia Software Engineering Course Materials** repository! This repository is a comprehensive collection of resources, notes, assignments, and study materials for the **Software Engineering** program at Concordia University. Whether you're a current student, an alum, or just someone interested in software engineering, this repository aims to be a helpful resource for your academic journey.
 
 ---
 
@@ -12,13 +11,14 @@ Welcome to the **Concordia Software Engineering Course Materials** repository! T
 3. [How to Use This Repository](#how-to-use-this-repository)
 4. [Contribution Guidelines](#contribution-guidelines)
 5. [License](#license)
-6. [Acknowledgments](#acknowledgments)
+6. [Requests](#requests)
+7. [Acknowledgments](#acknowledgments)
 
 ---
 
 ## About This Repository
 
-This repository is a community-driven effort to compile and organize materials related to the Software Engineering program at Concordia University. It includes:
+This repository is a community-driven effort to compile and organize materials related to the **Software Engineering** program at Concordia University. It includes:
 
 - **Lecture Notes**: Summaries and key points from lectures.
 - **Assignments**: Problem statements and solutions for assignments.
@@ -30,19 +30,81 @@ This repository is a community-driven effort to compile and organize materials r
 
 ## Courses Covered
 
-Below is a list of courses for which materials are available in this repository. If you have materials for a course not listed here, feel free to contribute!
+Below is a list of **all courses** in the Software Engineering program for which materials are available in this repository.
+If you have materials for a course not listed here, feel free to contribute!
+I spaced them out by course sequence for Fall entry into the Software Engineering Co-op BENG from the concordia website.
 
-### Core Courses
-- **SOEN 341**: Software Process
-- **SOEN 343**: Software Requirements and Specifications
+### Year 1
+
+- **COMP 232**: Mathematics for Computer Science
+- **COMP 248**: Object-Oriented Programming I
+- **ENGR 201**: Professional Practice and Responsibility
+- **ENGR 213**: Applied Ordinary Differential Equations
+- **General Education Elective**
+
+### Year 1 (Winter)
+
+- **COMP 249**: Object-Oriented Programming II
+- **ENGR 233**: Applied Advanced Calculus
+- **SOEN 228**: System Hardware
+- **SOEN 287**: Web Programming
+- **Engineering and Natural Science Group: Software Engineering**
+
+### Year 1 (Summer)
+
+- **COMP 348**: Principles of Programming Languages
+- **COMP 352**: Data Structures and Algorithms
+- **ENCS 282**: Technical Writing and Communication
+- **ENGR 202**: Sustainable Development and Environmental Stewardship
+- **ENGR 371**: Probability and Statistics in Engineering
+
+### Year 2 (Fall)
+
+- **Work Term 1**
+
+### Year 2 (Winter)
+
+- **COMP 346**: Operating Systems
+- **ELEC 275**: Principles of Electrical Engineering
+- **SOEN 331**: Formal Methods for Software Engineering
+- **SOEN 341**: Software Process and Practices
+
+### Year 2 (Summer)
+
+- **Work Term 2**
+
+### Year 3 (Fall)
+
+- **COMP 335**: Introduction to Theoretical Computer Science
+- **SOEN 342**: Software Requirements and Deployment
+- **SOEN 343**: Software Architecture and Design
+- **SOEN 384**: Management, Measurement and Quality Control
+
+### Year 3 (Winter)
+
+- **SOEN 363**: Data Systems for Software Engineers
+- **SOEN 345**: Software Testing, Verification and Quality Assurance
 - **SOEN 357**: User Interface Design
 - **SOEN 390**: Software Engineering Team Design Project
-- **SOEN 487**: Web Services and Applications
+- **Elective***
 
-### Electives
-- **SOEN 422**: Embedded Systems and Software
-- **SOEN 423**: Distributed Systems
+### Year 3 (Summer)
+
+- **Work Term 3**
+
+### Year 4 (Fall)
+
+- **ENGR 301**: Engineering Management Principles and Economics
+- **SOEN 321**: Information Systems Security
 - **SOEN 490**: Capstone Software Engineering Design Project
+- **Elective***
+
+### Year 4 (Winter)
+
+- **ENGR 392**: Impact of Technology on Society
+- **ENGR 391**: Numerical Methods in Engineering
+- **SOEN 490**: Capstone Software Engineering Design Project
+- **Elective***
 
 ---
 
@@ -68,6 +130,11 @@ We welcome contributions from anyone! If you have materials that could benefit o
    - Use Markdown for notes and README files.
 
 ---
+
+## Requests
+
+If you are having a hard time fining what you need, you can make a request to try and find course materials.
+Either make a pull request or contact me directly and I will do my best to help.
 
 ## License
 
