@@ -122,7 +122,7 @@ I spaced them out by course sequence for Fall entry into the Software Engineerin
 We welcome contributions from anyone! If you have materials that could benefit others, please follow these steps:
 
 1. **Fork the Repository**: Create a fork of this repository to your GitHub account.
-2. **Add Your Materials**: Organize your materials in the appropriate course folder. If a folder doesn't exist, create one.
+2. **Add Your Materials**: Organize your materials in the appropriate course folder. If a folder doesn't exist, create one. If you have any names you want to remove, or if the file is too large to fit on github, you will have to run the python script to remove them. See the [python script](#script) to remove them.
 3. **Submit a Pull Request**: Once you've added your materials, submit a pull request with a brief description of what you've added.
 4. **Follow Best Practices**:
    - Ensure files are well-organized and named clearly.
@@ -130,6 +130,27 @@ We welcome contributions from anyone! If you have materials that could benefit o
    - Use Markdown for notes and README files.
 
 ---
+
+## Script
+
+This script will remove any names, emails, phone numbers, etc. that you may not want to share. It will also make sure the content of the files fit into github's maximum 100MB file limit size. If programming and scripting is not in your domain, you do not have to do this step. Instead, open a pull request and I will run it for you. If you have the big brains to start scripting, follow these steps:
+
+1. Download [python](https://www.python.org/)
+2. Install the required dependencies for this project by opening a terminal (command prompt on windows) and run:
+
+```bash
+pip install pymupdf pypdf
+```
+
+3. Open the [formatter.py](formatter.py) file and edit the list called **NAMES_TO_REMOVE**. Using the format provided, add the names, emails and anything else you want to remove.
+
+4. To run the script, open a command prompt in the current directory of the git repo. This means when you run the commands `dir` or `ls` in your terminal, it will show all the course folders. If so, run the following command to execute the script:
+
+```bash
+python formatter.py
+# If the above command does not work, or says 'python' is not a known command, run:
+python3 formatter.py
+```
 
 ## Requests
 
